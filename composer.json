@@ -1,0 +1,23 @@
+{
+    "name": "valerian/daktela",
+    "description": "Daktela API",
+    "type": "library",
+    "config": {
+        "platform": {
+            "php": "5.3.9"
+        }
+    },
+    "require": {
+        "php": ">=5.3.1"
+    },
+    "autoload": {
+        "psr-4": {"Valerian\\Daktela\\": "src/"}
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Miroslav Valerián",
+            "email": "info@miroslav-valerian.cz"
+        }
+    ]
+}
