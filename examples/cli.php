@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/../src/SMSConnect.php';
+require __DIR__ . '/../src/SmsConnect.php';
 
 $token = '....';
 
